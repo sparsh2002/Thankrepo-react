@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Knewave");
+
+.mainpage {
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+  font-family: Knewave;
+}
+
+.mainpage h1 {
+  margin: 0;
+  padding: 20px 0;
+}
+.avatarstyle img {
+  width: 200px;
+  height: 200px;
+}
