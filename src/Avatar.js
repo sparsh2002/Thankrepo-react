@@ -35,7 +35,7 @@ class Avatar extends Component{
             {
                 id:4,
                 name:"ME",
-                work:"HAppy"
+                work:"Happy"
             }
         ]
         const arrayavatarcard = avatarlistarray.map((avatarcard,i) => {
