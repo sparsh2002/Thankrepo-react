@@ -7,7 +7,7 @@ class Avatar extends Component{
     constructor(){
         super();
         this.state = {
-            name:"Welcome to Avatar World"
+            name:"Thank you Sir and Mam for Making our Online Semester Interesting"
         }
     }
     namechange(){
@@ -19,23 +19,23 @@ class Avatar extends Component{
         const avatarlistarray =[
             {
                 id:1,
-                name:"Sparsh",
-                work:"Mongodb"
+                name:"Kiran Sir",
+                work:"Osm Singer!!"
             },
             {
                 id:2,
-                name:"Ishu",
-                work:"ExpressJs"
+                name:"Krupali Mam",
+                work:"OP Singer!!"
             },
             {
                 id:3,
-                name:"Chhotu",
-                work:"Reactjs"
+                name:"Batch IIIT Surat ",
+                work:"Can Only Thank"
             },
             {
                 id:4,
-                name:"J",
-                work:"NodeJs"
+                name:"ME",
+                work:"HAppy"
             }
         ]
         const arrayavatarcard = avatarlistarray.map((avatarcard,i) => {
